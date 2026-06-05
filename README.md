@@ -100,6 +100,7 @@ data : xxxxxxx|01000001|xxxxxxx|01010101|xxx
 tx   : ‾‾‾‾‾‾|_|d|d|d|d|d|d|d|d|‾‾‾‾‾‾‾‾‾
 done : _________________________|‾‾|_______
 ```
+<img width="1918" height="1017" alt="UART TRANSMITTER" src="https://github.com/user-attachments/assets/025e341d-bd04-4059-9ce2-997ce3c05917" />
 
 ---
 
