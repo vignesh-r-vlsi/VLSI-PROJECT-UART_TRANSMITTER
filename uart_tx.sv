@@ -1,4 +1,3 @@
-
 module uart_tx (
     input  clk,
     input  rst,
