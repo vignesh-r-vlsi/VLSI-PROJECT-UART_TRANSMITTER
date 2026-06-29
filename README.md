@@ -151,35 +151,27 @@ Suppose Amazon needs to deliver a TV.
 
 It doesn't throw the TV directly to your house.
 
-Instead:
+**Instead:**
 
 Package it
-
+ ↓
 Send through delivery van
-
+ ↓
 Deliver safely
-
+ ↓
 You receive it
 
-UART also packages the data.
+**UART also packages the data.**
 
 Data
-
  ↓
- 
 Start Bit (Package Open)
-
  ↓
- 
-8 Data Bits (Product)
-
+ 8 Data Bits (Product)
  ↓
- 
-Stop Bit (Package Closed)
-
+ Stop Bit (Package Closed)
  ↓
- 
-Receiver gets the package
+ Receiver gets the package
 
 **i) Wi-Fi Modules (ESP8266 / ESP32)**
 
