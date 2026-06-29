@@ -155,6 +155,7 @@ It doesn't throw the TV directly to your house.
 
 Package it
  ↓
+ 
 Send through delivery van
  ↓
 Deliver safely
