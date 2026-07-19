@@ -205,8 +205,8 @@ Start Bit (Package Open)
 ## 👤 Author
 
 **Vignesh R**
-- LinkedIn: [linkedin.com/in/vignesh-r-906157206](https://www.linkedin.com/in/vignesh-r-906157206)
-- GitHub: https://github.com/Vignesh525174
+- LinkedIn: [linkedin.com/in/vignesh-r-906157206](https://www.linkedin.com/in/vignesh-r-vlsi)
+- GitHub: https://github.com/vignesh-r-vlsi
 
 ---
 
